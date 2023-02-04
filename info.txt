@@ -1,9 +1,0 @@
-http://svn.nl-ams.ignitionone.com/svn/systems/_LINUX_/etc/puppet/modules/wordpress_admin/manifests/init.pp
-http://svn.nl-ams.ignitionone.com/svn/systems/_LINUX_/etc/puppet/modules/wordpress_node/manifests/init.pp
-http://svn.nl-ams.ignitionone.com/svn/systems/_LINUX_/etc/puppet/modules/wordpress_lb/manifests/init.pp
-Key File
-http://svn.nl-ams.ignitionone.com/svn/systems/_LINUX_/root/.ssh/authorized_keys
-http://svn.nl-ams.ignitionone.com/svn/systems/_LINUX_/var/spool/cron/crontabs/root
-
-
-https://www.wpintense.com/2018/01/09/setting-up-a-wordpress-cluster-for-huge-sites/
